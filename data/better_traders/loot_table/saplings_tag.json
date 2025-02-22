@@ -9,11 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:5b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:spruce_sapling\",count:1},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -23,11 +19,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:5b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:jungle_sapling\",count:1},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -37,11 +29,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:5b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:acacia_sapling\",count:1},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -51,11 +39,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:5b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 4
+                            "tag": "{sell:{id:\"minecraft:dark_oak_sapling\",count:4},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -65,11 +49,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:5b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:mangrove_propagule\",count:1},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 }

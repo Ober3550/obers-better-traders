@@ -9,11 +9,17 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:8b},TradeOffer:1b}"
-                        },
+                            "tag": "{sell:{id:\"minecraft:nautilus_shell\",count:1},buy:{id:\"minecraft:emerald\",count:4},priceMultiplier:0.f,maxUses:8}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:heart_of_the_sea",
+                    "functions": [
                         {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:heart_of_the_sea\",count:1},buy:{id:\"minecraft:emerald\",count:16},priceMultiplier:0.f,maxUses:1}"
                         }
                     ]
                 },
@@ -23,11 +29,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:4b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:turtle_egg\",count:1},buy:{id:\"minecraft:emerald\",count:8},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -37,11 +39,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:4b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:budding_amethyst\",count:1},buy:{id:\"minecraft:emerald\",count:4},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -51,11 +49,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:4b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 1
+                            "tag": "{sell:{id:\"minecraft:sponge\",count:1},buy:{id:\"minecraft:emerald\",count:4},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 }

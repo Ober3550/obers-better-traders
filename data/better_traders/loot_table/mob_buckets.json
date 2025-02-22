@@ -1,30 +1,69 @@
 {
-	"pools": [{
-		"rolls": 1,
-		"entries": [{
-				"type": "minecraft:item",
-				"name": "minecraft:pufferfish_bucket"
-			},
-			{
-				"type": "minecraft:item",
-				"name": "minecraft:axolotl_bucket"
-			},
-			{
-				"type": "minecraft:item",
-				"name": "minecraft:tadpole_bucket"
-			},
-			{
-				"type": "minecraft:item",
-				"name": "minecraft:tropical_fish_bucket"
-			},
-			{
-				"type": "minecraft:item",
-				"name": "minecraft:salmon_bucket"
-			},
-			{
-				"type": "minecraft:item",
-				"name": "minecraft:cod_bucket"
-			}
-		]
-	}]
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pufferfish_bucket",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:pufferfish_bucket\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:axolotl_bucket",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:axolotl_bucket\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tadpole_bucket",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:tadpole_bucket\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tropical_fish_bucket",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:tropical_fish_bucket\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:salmon_bucket",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:salmon_bucket\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod_bucket",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:cod_bucket\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

@@ -9,11 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:32,buy:{id:\"minecraft:emerald\",count:1b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 4
+                            "tag": "{sell:{id:\"minecraft:red_sand\",count:4},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:1000}"
                         }
                     ]
                 },
@@ -23,11 +19,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:16,buy:{id:\"minecraft:emerald\",count:1b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 8
+                            "tag": "{sell:{id:\"minecraft:sand\",count:4},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:1000}"
                         }
                     ]
                 },
@@ -37,11 +29,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:2b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 8
+                            "tag": "{sell:{id:\"minecraft:netherrack\",count:8},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:1000}"
                         }
                     ]
                 },
@@ -51,11 +39,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{maxUses:8,buy:{id:\"minecraft:emerald\",count:2b},TradeOffer:1b}"
-                        },
-                        {
-                            "function": "minecraft:set_count",
-                            "count": 4
+                            "tag": "{sell:{id:\"minecraft:end_stone\",count:8},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:1000}"
                         }
                     ]
                 }

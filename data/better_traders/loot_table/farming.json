@@ -1,61 +1,139 @@
 {
-	"pools": [
-		{
-			"rolls": 1,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:red_mushroom"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:brown_mushroom"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:melon_seeds"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:pumpkin_seeds"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:sugar_cane"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:cocoa_beans"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:sea_pickle"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:cactus"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:bamboo"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:beetroot_seeds"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:kelp"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:nether_wart"
-				},
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:chorus_flower"
-				}
-			]
-		}
-	]
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:red_mushroom",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:red_mushroom\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:brown_mushroom",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:brown_mushroom\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:melon_seeds",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:melon_seeds\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pumpkin_seeds",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:pumpkin_seeds\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sugar_cane",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:sugar_cane\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cocoa_beans",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:cocoa_beans\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sea_pickle",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:sea_pickle\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cactus",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:cactus\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:bamboo",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:bamboo\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:beetroot_seeds",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:beetroot_seeds\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:kelp",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:kelp\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nether_wart",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:nether_wart\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:chorus_flower",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:chorus_flower\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
