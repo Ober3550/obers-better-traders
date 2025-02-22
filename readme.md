@@ -9,8 +9,14 @@ Finding diamonds and setting up all the villagers for all the required enchantme
 # Progression
 
 A few world types have challenges that require particular wandering trader trades like skyblock and superflat
-In these cases **water, lava, apples, gold, dripstone and moss** are essential for unlocking large amounts of the game through trading and infinite production of stones, lava etc.
 For those reasons these trades are generated separately from the rest and you're guaranteed to have 3 every time.
+
+- water
+- lava
+- oak saplings
+- gold
+- dripstone
+- moss
 
 # Saplings
 
