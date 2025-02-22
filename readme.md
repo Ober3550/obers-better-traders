@@ -11,7 +11,7 @@ Finding diamonds and setting up all the villagers for all the required enchantme
 A few world types have challenges that require particular wandering trader trades like skyblock and superflat
 For those reasons these trades are generated separately from the rest and you're guaranteed to have 3 every time.
 
-- water
+- ice
 - lava
 - oak saplings
 - gold
