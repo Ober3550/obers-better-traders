@@ -6,36 +6,37 @@
                 {
                     "type": "minecraft:loot_table",
                     "value": "better_traders:saplings_tag",
-                    "weight": 8
+                    "weight": 100
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "value": "better_traders:biomes",
-                    "weight": 1
+                    "value": "better_traders:grasses",
+                    "weight": 100
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "value": "better_traders:sands",
-                    "weight": 4
+                    "value": "better_traders:non_renewables",
+                    "weight": 100
                 },
                 {
                     "type": "minecraft:loot_table",
-                    "value": "better_traders:rare_drops"
+                    "value": "better_traders:rare_drops",
+                    "weight": 50
                 },
                 {
                     "type": "minecraft:loot_table",
                     "value": "better_traders:farming",
-                    "weight": 12
+                    "weight": 100
                 },
                 {
                     "type": "minecraft:loot_table",
                     "value": "better_traders:coral_blocks",
-                    "weight": 1
+                    "weight": 50
                 },
                 {
                     "type": "minecraft:loot_table",
                     "value": "better_traders:mob_buckets",
-                    "weight": 1
+                    "weight": 50
                 }
             ]
         }

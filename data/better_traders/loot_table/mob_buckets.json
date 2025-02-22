@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:pufferfish_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
@@ -15,7 +15,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:axolotl_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
@@ -25,7 +25,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:tadpole_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
@@ -35,7 +35,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:tropical_fish_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
@@ -45,7 +45,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:salmon_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
@@ -55,7 +55,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:cod_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",

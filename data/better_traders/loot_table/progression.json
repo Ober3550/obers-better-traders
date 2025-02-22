@@ -15,7 +15,7 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:lava_bucket",
+                    "name": "minecraft:bucket",
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
@@ -29,7 +29,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{sell:{id:\"minecraft:pointed_dripstone\",count:5},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
+                            "tag": "{sell:{id:\"minecraft:pointed_dripstone\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
@@ -49,7 +49,17 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{sell:{id:\"minecraft:ice\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                            "tag": "{sell:{id:\"minecraft:ice\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:1000}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:gold_ingot",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:gold_ingot\",count:2},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 }

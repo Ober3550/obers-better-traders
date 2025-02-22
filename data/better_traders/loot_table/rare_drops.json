@@ -49,7 +49,47 @@
                     "functions": [
                         {
                             "function": "minecraft:set_custom_data",
-                            "tag": "{sell:{id:\"minecraft:sponge\",count:1},buy:{id:\"minecraft:emerald\",count:4},priceMultiplier:0.f,maxUses:12}"
+                            "tag": "{sell:{id:\"minecraft:sponge\",count:1},buy:{id:\"minecraft:emerald\",count:4},priceMultiplier:0.f,maxUses:64}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:shulker_spawn_egg",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:shulker_spawn_egg\",count:1},buy:{id:\"minecraft:emerald\",count:32},priceMultiplier:0.f,maxUses:1}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:ancient_debris",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:ancient_debris\",count:1},buy:{id:\"minecraft:emerald\",count:16},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:netherite_upgrade_smithing_template",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:netherite_upgrade_smithing_template\",count:1},buy:{id:\"minecraft:emerald\",count:16},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sniffer_egg",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:sniffer_egg\",count:1},buy:{id:\"minecraft:emerald\",count:16},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 }

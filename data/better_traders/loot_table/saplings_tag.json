@@ -52,6 +52,16 @@
                             "tag": "{sell:{id:\"minecraft:mangrove_propagule\",count:1},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cherry_sapling",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:cherry_sapling\",count:1},buy:{id:\"minecraft:emerald\",count:5},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
                 }
             ]
         }

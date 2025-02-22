@@ -65,16 +65,6 @@
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:sea_pickle",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_custom_data",
-                            "tag": "{sell:{id:\"minecraft:sea_pickle\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
-                        }
-                    ]
-                },
-                {
-                    "type": "minecraft:item",
                     "name": "minecraft:cactus",
                     "functions": [
                         {
@@ -110,6 +100,86 @@
                         {
                             "function": "minecraft:set_custom_data",
                             "tag": "{sell:{id:\"minecraft:kelp\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sunflower",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:sunflower\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:peony",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:peony\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:rose_bush",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:rose_bush\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:lilac",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:lilac\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sea_pickle",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:sea_pickle\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:glow_lichen",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:glow_lichen\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:glow_berries",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:glow_berries\",count:1},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:lily_pad",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{sell:{id:\"minecraft:lily_pad\",count:2},buy:{id:\"minecraft:emerald\",count:1},priceMultiplier:0.f,maxUses:12}"
                         }
                     ]
                 },
