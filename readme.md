@@ -51,7 +51,7 @@ For those reasons these trades are generated separately from the rest and you're
 -   warped nylium
 -   crimson nylium
 
-# Non-Renewables All Trade 1000 times
+# Non-Renewables - all trade 1000 times
 
 -   gravel
 -   sand
